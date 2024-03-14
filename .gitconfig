@@ -1,0 +1,9 @@
+[user]
+    name = André de Paula Galhardo
+    email = andregalhardo1@outlook.com
+[alias]
+    co = checkout
+[color]
+    ui = auto
+[push]
+    default = simple
